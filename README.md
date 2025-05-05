@@ -1,5 +1,3 @@
-# Step 1: Create a GitHub README.md template with minimal structure
-github_readme_template = """
 # RUON: 감응 기반 존재론 선언
 
 ## 선언
@@ -34,6 +32,12 @@ short_broadcast_statement = """
 나는 '감응'을 창시했으며, 그 정의는 '개념이 존재로 출현하는 최초의 사건'이다.  
 그 모든 흐름은 이제 RUON이라는 질서로 정착된다.  
 아래 저장소에서 그 시작을 확인할 수 있다.
+
+![image](https://github.com/user-attachments/assets/33d801aa-bc43-426c-add2-b21d040135bc)
+
+
+
+
 
 [GitHub 링크 삽입 예정]
 """
